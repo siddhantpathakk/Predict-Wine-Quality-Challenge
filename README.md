@@ -2,8 +2,7 @@
 
 In this competition, we are given features of white vinho verde wine and we have to predict the quality of the wine.
 
-During evaluation, F1 score will be used to test the efficiency of the model where,
-![image.png](attachment:image.png)
+During evaluation, F1 score will be used to test the efficiency of the model.
 
 Challenge Page: https://www.aicrowd.com/challenges/wineq
 
